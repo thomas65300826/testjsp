@@ -57,13 +57,6 @@
 	color: #fff
 }
 
-body {
-	margin: 0;
-	padding: 0;
-	font: normal 18px Verdana, Arial, Helvetica, sans-serif;
-	line-height: 1.8em;
-	min-width: 980px;
-}
 
 #cover_div {
 	left: 0px;
